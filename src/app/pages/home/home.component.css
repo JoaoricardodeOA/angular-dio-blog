@@ -1,0 +1,15 @@
+.container__articles{
+    padding-top: 20px;
+    display: flex;
+    flex-direction: row;
+}
+.articles__main{
+    width: 40%;
+}
+.articles__others{
+    width: 58%;
+}
+header{
+    display: flex;
+    justify-content: center;
+}

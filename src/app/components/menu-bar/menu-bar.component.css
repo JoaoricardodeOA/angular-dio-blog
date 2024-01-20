@@ -1,0 +1,12 @@
+.container__menu-bar{
+    display: flex;
+    margin: 15px 0px;
+}
+.container__menu-bar > li{
+    display: flex;
+    margin-right: 20px;
+}
+*{
+    text-decoration: none;
+    list-style: none;
+}
