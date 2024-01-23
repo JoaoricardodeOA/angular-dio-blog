@@ -7,9 +7,6 @@
     width: 40%;
 }
 .articles__others{
-    width: 58%;
-}
-header{
-    display: flex;
-    justify-content: center;
+    width: 55%;
+    margin-left: 10%;
 }
